@@ -65,9 +65,7 @@ Playlist Generation
 Installation
 
 Clone the repository:
-
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-cd YOUR-REPOSITORY
+https://github.com/i-sun-m/Spotify-Data-Studio/tree/main
 
 Install the required dependencies:
 
